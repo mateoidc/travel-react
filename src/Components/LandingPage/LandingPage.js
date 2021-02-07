@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import "../LandingPage/LandingPage.css";
+import { Link } from "react-scroll";
 
 class LandingPage extends React.Component {
   render() {
@@ -7,7 +8,16 @@ class LandingPage extends React.Component {
       <div className="landing-page">
         <div className="lp-wrapper">
           <div className="lp-image">
-            <button>EXPLORE</button>
+            <Link
+              activeClass="active"
+              to="DominicanFood"
+              spy={true}
+              smooth={true}
+              offset={-70}
+              duration={2000}
+            >
+              Explore
+            </Link>
           </div>
         </div>
         <div className="dots">

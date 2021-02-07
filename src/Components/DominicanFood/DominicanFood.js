@@ -4,7 +4,7 @@ import "../DominicanFood/DominicanFood.css";
 class DominicanFood extends React.Component {
   render() {
     return (
-      <div className="food-page2">
+      <div id="DominicanFood" className="food-page2">
         <div className="lp-wrapper2">
           <div className="lp-image2">ES HORA DE COMER!</div>
         </div>

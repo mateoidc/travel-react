@@ -16,7 +16,7 @@
   font-size: 20px;
 }
 
-button {
+a {
   font-size: 40px;
   cursor: pointer;
   font-family: "Hachi Maru Pop", cursive;
@@ -24,9 +24,11 @@ button {
   background-color: white;
   font-weight: 800;
   color: rgba(14, 20, 32, 0.71);
+  display: flex;
+  align-items: center;
 }
 
-button:hover {
+a:hover {
   background-color: rgba(240, 248, 255, 0.116);
   transition: 1.5s;
   color: rgba(253, 253, 0, 0.717);
