@@ -1,0 +1,150 @@
+.dr {
+  display: flex;
+  justify-content: center;
+  font-size: 50px;
+  color: rgba(14, 20, 32, 0.71);
+  font-family: "Maven Pro", sans-serif;
+}
+
+.dr-pics {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Maven+Pro:wght@500&display=swap");
+
+.food1 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://www.thespruceeats.com/thmb/sYgV7_GQutxx-28amPbZisvzOXw=/4494x3000/filters:fill(auto,1)/pastelitos-de-dulce-de-leche-3029772-hero-01-a9754c509ae244d79c33f6d08f0ac9a1.jpg");
+  font-size: 40px;
+  color: white;
+  font-weight: bolder;
+  background-size: cover;
+  height: 400px;
+  width: 700px;
+  text-align: center;
+  border-radius: 30px;
+  margin: 10px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  font-family: "Maven Pro", sans-serif;
+}
+
+.food2 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://dominicansoul.com/img/Mangu01.jpg");
+  text-align: center;
+  font-size: 40px;
+  color: white;
+  font-weight: bolder;
+  background-size: cover;
+  height: 400px;
+  width: 700px;
+  border-radius: 30px;
+  margin: 10px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  font-family: "Maven Pro", sans-serif;
+}
+
+.food3 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://assets.dmagstatic.com/wp-content/uploads/2020/09/Picaderas-famous-Dominican-Chimi-Burger.jpg");
+  text-align: center;
+  font-size: 40px;
+  color: white;
+  font-weight: bolder;
+  background-size: cover;
+  height: 400px;
+  width: 700px;
+  border-radius: 30px;
+  margin: 10px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  font-family: "Maven Pro", sans-serif;
+}
+
+h2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+}
+
+/* COlombia */
+
+.food4 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://blog.amigofoods.com/wp-content/uploads/2019/06/colombias-bandeja-paisa.jpg");
+  font-size: 40px;
+  color: white;
+  font-weight: bolder;
+  background-size: cover;
+  height: 400px;
+  width: 700px;
+  text-align: center;
+  border-radius: 30px;
+  margin: 10px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  font-family: "Maven Pro", sans-serif;
+}
+
+.food5 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://cdn.colombia.com/gastronomia/2011/07/28/sancocho-de-cola-1650.gif");
+  text-align: center;
+  font-size: 40px;
+  color: white;
+  font-weight: bolder;
+  background-size: cover;
+  height: 400px;
+  width: 700px;
+  border-radius: 30px;
+  margin: 10px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  font-family: "Maven Pro", sans-serif;
+}
+
+.food6 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://video-images.vice.com/_uncategorized/1536264291783-10-1.jpeg");
+  text-align: center;
+  font-size: 40px;
+  color: white;
+  font-weight: bolder;
+  background-size: cover;
+  height: 400px;
+  width: 700px;
+  border-radius: 30px;
+  margin: 10px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  font-family: "Maven Pro", sans-serif;
+}
+
+.lp-image2 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://static.themoscowtimes.com/image/article_1360/9c/resizedArabiantable002.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  height: 500px;
+  margin: 30px;
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  font-size: 100px;
+  color: white;
+}
